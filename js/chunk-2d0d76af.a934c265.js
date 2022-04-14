@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d76af"],{7770:function(e,a,t){"use strict";t.r(a);var n=function(){var e=this,a=e.$createElement,t=e._self._c||a;return t("div",[t("p",[e._v("演示权限指令")]),t("p",[e._v("admin账户可见， visitor账户不可见")]),t("input",{directives:[{name:"focus",rawName:"v-focus"},{name:"auth",rawName:"v-auth:authDirective",arg:"authDirective"}]})])},i=[],u={},r=u,c=t("2877"),s=Object(c["a"])(r,n,i,!1,null,null,null);a["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0d76af.a934c265.js.map
